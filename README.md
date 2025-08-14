@@ -1,2 +1,2 @@
 # statistic
-collecting books, papers and docs.
+用于收集关于计算机学习各方面的书籍、论文等资料
